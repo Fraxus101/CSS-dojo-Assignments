@@ -1,0 +1,39 @@
+img {
+    height: 200px;
+    margin: 15px;
+}
+
+* {
+    background-color: #FFEBCD;
+    margin: 10px;
+}
+
+h1 {
+    
+    text-align: center;
+}
+
+
+
+.cats {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FAFAD2;
+}
+
+.kitten {
+    display: flex;
+    justify-content: space-around;
+    background-color: #800000;
+}
+
+.catss {
+    display: flex;
+    justify-content: space-around;
+    background-color: #4B0082;
+}
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

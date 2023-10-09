@@ -1,0 +1,40 @@
+.Container {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.btn {
+    margin: 10px;
+    }
+
+#search {
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 25px;
+    border-color: rgba(22,157,159,255);
+    padding: 5px 50px;
+    color: rgba(22,157,159,255);
+}
+
+#add {
+    font-size: 20px;
+    
+    border: none;
+    background-color: rgba(0,209,178,255);
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+
+
+}
+
+#create {
+    color: white;
+    font-size: 15px;
+    border: solid black 2px;
+    background-color: rgba(43,120,228,255);
+    padding: 8px 45px;
+    box-shadow: 5px 5px 5px black;
+}
+
